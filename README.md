@@ -12,7 +12,7 @@ docker run -v ~/workspace/bikewise_incidents/:/usr/src/app -t -i -d sathish86/bi
 
 Step 3:
 
-Goto the container path "/usr/src/app/bike_app" (Docker) or project path in local directory
+Goto the container path "/usr/src/app/bike_app" (Docker) or project path in local directory and install npm packages for the project
 
 # npm install 
 
